@@ -10,7 +10,7 @@
 ---
 
 ## 🌐 Онлайн версия
-Достъпен сайт: [https://veizarel.github.io/gosys-vfu//](https://твоетоиме.github.io/gosys/)
+Достъпен сайт: [https://veizarel.github.io/gosys-vfu/](https://твоетоиме.github.io/gosys/)
 
 ---
 
